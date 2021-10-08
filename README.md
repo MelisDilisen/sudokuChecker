@@ -5,8 +5,13 @@ This sudoku checker project is implemented by using JavaFX. The aim of this GUI 
 Below are the examples of feedbacks from the game.
 
 Correct Solution
+
 ![Correct Solution](/readme_images/correct.gif)
+
 Incomplete Solution
+
 ![Incomplete Solution](/readme_images/incomplete.gif)
+
 Incorrect Solution
+
 ![Incorrect Solution](/readme_images/incorrect.gif)
